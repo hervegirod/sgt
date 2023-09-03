@@ -9,7 +9,7 @@ The initial porject was here: [pmel.noaa.gov/epic/java/sgt/](https://www.pmel.no
 Note that the original code is not available anymore. The fork is not available on maven too.
 
 # Licence
-The licence is the licence of the sgt project: [Licence](Licence.md)
+The licence is the licence of the sgt project: [License](LICENSE.md)
 
 # updates
 There are two kind of modifications from the original forked code at [github.com/nicmichael/sgt](https://github.com/nicmichael/sgt):
