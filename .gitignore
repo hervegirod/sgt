@@ -1,1 +1,3 @@
-target/
+/sgt/nbproject/private/
+/build/
+/dist/
